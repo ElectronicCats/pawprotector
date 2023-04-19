@@ -27,3 +27,5 @@ fp-info-cache
 
 hardware/Template-KiCAD-Project-CI-backups/
 *.zip
+
+*.DS_Store
