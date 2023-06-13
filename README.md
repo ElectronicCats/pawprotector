@@ -1,6 +1,11 @@
 
 # Paw Protector
 
+- Attach between your USB cable and charger to physically block data transfer / syncing. Charge mobile devices without any pop-ups or risk of hacking / uploading viruses in cars, airports etc
+- Our SmartCharge chip automatically switches between Apple, Universal and Samsung standards to ensure compatibility with your device and charge at up to 2.4A
+- This is our USB-A to A model.
+- Paw Protector protects your mobile data from being accidentally shared, stolen, or infected with malware! Paw Protector only transfers power, not your privacy!
+- Complete Open Source
  
 ## Maintainer
 
