@@ -11,6 +11,10 @@
   <img src="https://electroniccats.com/wp-content/uploads/badge_store.png" width="200" height="104" />
 </a>
 
+## Wiki
+
+For further details, please see the [Wiki](https://github.com/ElectronicCats/pawprotector/wiki) section.
+
 ## License
 
 ![OpenSourceLicense](https://github.com/ElectronicCats/AjoloteBoard/raw/master/OpenSourceLicense.png)
