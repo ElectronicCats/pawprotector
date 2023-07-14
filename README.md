@@ -5,7 +5,7 @@
 - Our SmartCharge chip automatically switches between Apple, Universal and Samsung standards to ensure compatibility with your device and charge at up to 2.4A
 - This is our USB-A to A model.
 - Paw Protector protects your mobile data from being accidentally shared, stolen, or infected with malware! Paw Protector only transfers power, not your privacy!
-- Complete Open Source
+- Completely open source
 
 <a href="https://electroniccats.com/store/paw-protector/">
   <img src="https://electroniccats.com/wp-content/uploads/badge_store.png" width="200" height="104" />
@@ -13,7 +13,7 @@
 
 ## Wiki
 
-For further details, please see the [Wiki](https://github.com/ElectronicCats/pawprotector/wiki) section.
+For more details, please see the [Wiki](https://github.com/ElectronicCats/pawprotector/wiki) section.
 
 ## License
 
@@ -27,7 +27,7 @@ Firmware released under an GNU AGPL v3.0 license. See the LICENSE file for more 
 
 Hardware released under an CERN Open Hardware Licence v1.2. See the [LICENSE_HARDWARE](https://github.com/ElectronicCats/pawprotector/blob/main/LICENSE_HARDWARE.md) file for more information.
 
-Electronic Cats is a registered trademark, please do not use if you sell these PCBs.
+Electronic Cats is a registered trademark, please do not use it if you sell these PCBs.
 
 Jul 2023
  
