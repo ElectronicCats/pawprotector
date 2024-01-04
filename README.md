@@ -6,10 +6,15 @@
 - This is our USB-A to A model.
 - Paw Protector protects your mobile data from being accidentally shared, stolen, or infected with malware! Paw Protector only transfers power, not your privacy!
 - Completely open source
-
+- 
+<p align=center>
 <a href="https://electroniccats.com/store/paw-protector/">
   <img src="https://electroniccats.com/wp-content/uploads/badge_store.png" width="200" height="104" />
 </a>
+<a href="https://github.com/ElectronicCats/pawprotector/wiki">
+  <img src="https://github.com/ElectronicCats/flipper-shields/assets/44976441/6aa7f319-3256-442e-a00d-33c8126833ec" width="200" height="104" />
+</a>
+</p>
 
 ## Wiki
 
