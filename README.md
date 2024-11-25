@@ -1,12 +1,18 @@
-
 # Paw Protector
+
+The **Paw Protector** by **Electronic Cats** is a device specifically designed to protect the USB port of electronic devices, such as smartphones and tablets, when used in environments at risk of malicious devices like keyloggers or physical damage from devices like USB Killers. This accessory acts as a "physical fuse" that prevents data exchange and only allows power transmission, negotiating with the host device to achieve the maximum possible charging power.
+
+### Key Features:
+- **Compact and lightweight design:** Easy to install in any setup without taking up extra space.  
+- **Universal compatibility:** Works with a wide range of devices with USB ports.  
+- **Damage prevention:** Reduces the risk of malicious devices and physical threats to USB ports.  
 
 - Attach between your USB cable and charger to physically block data transfer / syncing. Charge mobile devices without any pop-ups or risk of hacking / downloading viruses in cars, airports etc
 - Our SmartCharge chip automatically switches between Apple, Universal and Samsung standards to ensure compatibility with your device and charge at up to 2.4A
 - This is our USB-A to A model.
 - Paw Protector protects your mobile data from being accidentally shared, stolen, or infected with malware! Paw Protector only transfers power, not your privacy!
 - Completely open source
-- 
+
 <p align=center>
 <a href="https://electroniccats.com/store/paw-protector/">
   <img src="https://electroniccats.com/wp-content/uploads/badge_store.png" width="200" height="104" />
