@@ -3,4 +3,6 @@
 	(lib (name "usbCondom") (type "KiCad") (uri "${KIPRJMOD}/Library/usbCondom.pretty") (options "") (descr ""))
 	(lib (name "USB-C-FEMALE") (type "KiCad") (uri "${KIPRJMOD}/USB-C_Female/USB-C-FEMALE") (options "") (descr ""))
 	(lib (name "USB-C_Male") (type "KiCad") (uri "${KIPRJMOD}/USB-C_Male/USB-C_Male") (options "") (descr ""))
+	(lib (name "TVS2200") (type "KiCad") (uri "C:/Users/galle/TVS2200DRVR/footprint") (options "") (descr ""))
+	(lib (name "TPS259480") (type "KiCad") (uri "C:/Users/galle/TPS259480AYWPR/TPS259480") (options "") (descr ""))
 )
