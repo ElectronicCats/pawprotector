@@ -4565,7 +4565,7 @@
 	)
 	(text "Diodes TVS\n"
 		(exclude_from_sim no)
-		(at 149.606 91.186 0)
+		(at 151.892 91.694 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4879,6 +4879,16 @@
 			(type default)
 		)
 		(uuid "21f29866-5f60-4b43-aeb1-76d2f894d0e9")
+	)
+	(wire
+		(pts
+			(xy 46.99 39.37) (xy 53.34 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24449be9-9fd3-4ae9-8954-e7e8ab94c28e")
 	)
 	(wire
 		(pts
