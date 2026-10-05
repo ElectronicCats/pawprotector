@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.0,
-          "width": 1.6
+          "height": 1.2,
+          "width": 1.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -63,8 +63,8 @@
           "hatch_thickness": 1.0,
           "min_clearance": 0.25,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
-          "pad_connection": 1,
+          "min_thickness": 0.15,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -574,7 +574,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -736,7 +736,7 @@
         "uuid": "0d5adc36-ef78-4419-baea-66b821882972"
       }
     ],
-    "used_designators": "U1-6,D2,#PWR1-12,#PWR29,#PWR32-40,J1,R1-4,R8,C2-3,C5,P1",
+    "used_designators": "U1-6,D1-2,#PWR1-19,#PWR29,#PWR32-40,J1,R1-5,R8,C1-5,P1",
     "variants": []
   },
   "sheets": [
