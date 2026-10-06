@@ -1,7 +1,0 @@
-(sym_lib_table
-	(version 7)
-	(lib (name "usbCondom") (type "KiCad") (uri "${KIPRJMOD}/Library/usbCondom.kicad_sym") (options "") (descr ""))
-	(lib (name "KH-TYPE-C-16P") (type "KiCad") (uri "${KIPRJMOD}/USB-C_Female/USB-C-symbol/KH-TYPE-C-16P.kicad_sym") (options "") (descr ""))
-	(lib (name "TYPE-C-31-G-10") (type "KiCad") (uri "${KIPRJMOD}/USB-C_Male/symbol/TYPE-C-31-G-10.kicad_sym") (options "") (descr ""))
-	(lib (name "TPS259480AYWPR2.0") (type "KiCad") (uri "C:/Users/galle/TPS259480AYWPR/symbol/TPS259480AYWPR.kicad_sym") (options "") (descr ""))
-)
