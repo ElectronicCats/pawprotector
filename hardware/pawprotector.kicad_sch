@@ -7161,7 +7161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 197.8152 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -7194,7 +7194,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C5199872"
+		(property "LCSC#" "C513770"
 			(at 196.85 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -7454,7 +7454,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C106251"
+		(property "LCSC#" "C880620"
 			(at 102.87 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -8321,6 +8321,17 @@
 				)
 			)
 		)
+		(property "LCSC#" "C20345397"
+			(at 151.13 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "055b1182-6efd-4ea7-ba74-cef9e1f4b889")
 		)
@@ -8628,6 +8639,17 @@
 				)
 			)
 		)
+		(property "LCSC#" "C709357"
+			(at 248.92 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "A7"
 			(uuid "68aefd46-1e25-4789-a3db-04b3edf92091")
 		)
@@ -8767,6 +8789,17 @@
 			)
 		)
 		(property "Description" "USB Type-C Plug connector"
+			(at 31.75 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C5370430"
 			(at 31.75 57.15 0)
 			(hide yes)
 			(show_name no)

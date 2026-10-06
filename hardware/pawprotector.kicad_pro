@@ -41,7 +41,7 @@
         "pads": {
           "drill": 0.0,
           "height": 1.2,
-          "width": 1.2
+          "width": 1.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -619,7 +619,7 @@
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
