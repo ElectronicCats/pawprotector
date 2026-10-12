@@ -13,6 +13,7 @@ The **Paw Protector** by **Electronic Cats** is a device specifically designed t
 - Paw Protector protects your mobile data from being accidentally shared, stolen, or infected with malware! Paw Protector only transfers power, not your privacy!
 - Completely open source
 
+<p align=center><b>Where to buy and learn more</b></p>
 <p align=center>
 <a href="https://electroniccats.com/store/paw-protector/">
   <img src="https://electroniccats.com/wp-content/uploads/badge_store.png" width="200" height="104" />
@@ -23,12 +24,9 @@ The **Paw Protector** by **Electronic Cats** is a device specifically designed t
 </p>
 
 <p align=center>
-Also available at distributors:
-</p>
-<p align=center>
-<a href="https://labs.ksec.co.uk/product-category/electronic-cat/">
-<img src="https://cdn.ksec.co.uk/ksec-solutions/ksec-W-BW-MV-small-clipped.png" width="200" />
-</a>
+  <a href="https://electroniccats.com/distributors/">
+    <img src="https://electroniccats.com/wp-content/uploads/2026/10/official-distributors-button-v2.png" width="200" alt="Official distributors" />
+  </a>
 </p>
 
 ## Wiki
