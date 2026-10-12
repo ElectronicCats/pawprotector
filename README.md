@@ -24,7 +24,7 @@ The **Paw Protector** by **Electronic Cats** is a device specifically designed t
 
 <p align=center>
   <a href="https://electroniccats.com/distributors/">
-    <img src="https://electroniccats.com/wp-content/uploads/2026/10/official-distributors-button.png" width="200" alt="Official distributors" />
+    <img src="https://electroniccats.com/wp-content/uploads/2026/10/official-distributors-button-v2.png" width="200" alt="Official distributors" />
   </a>
 </p>
 
